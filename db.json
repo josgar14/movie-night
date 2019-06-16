@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "John Wick 3",
+      "genre": "Action",
+      "image": "http://t3.gstatic.com/images?q=tbn:ANd9GcTaABFJr_eVRUhtaPnKfihePqqNsJjcGvZ62OgxCv6wjXn-XgGC",
+      "releaseYear": "2019"
+    },
+    {
+      "id": 2,
+      "name": "Avengers: Endgame",
+      "genre": "Action",
+      "image": "http://t2.gstatic.com/images?q=tbn:ANd9GcQA_-tL18_rj9zEcjN6n41NEaJm-kRNF9UeOtvksZ4z_OW6jRA9",
+      "releaseYear": "2019"
+    },
+    {
+      "id": 3,
+      "name": "Dark Phoenix",
+      "genre": "Action",
+      "image": "http://t2.gstatic.com/images?q=tbn:ANd9GcSx4JS_U1Xp6AKtrTXtE00H40SejV2VfJtLVd3Vy46BcPYa0PPy",
+      "releaseYear": "2019"
+    },
+    {
+      "id": 4,
+      "name": "Spider-Man: Far From Home",
+      "genre": "Action",
+      "image": "http://t0.gstatic.com/images?q=tbn:ANd9GcRPzzfxN6Ugvq902Ut7A-QkCDOqLzzbiYQ2bPk2pn5D9fBZBrT_",
+      "releaseYear": "2019"
+    },
+    {
+      "name": "Terminator: DarkFate",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUwNWI2ZDQtODRjNy00OGE1LThlNGEtYzU2NDU5ZGMzN2RmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+      "genre": "Action",
+      "releaseYear": "2019",
+      "id": 5
+    },
+    {
+      "name": "Pokemon Detective Pikachu",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_.jpg",
+      "genre": "Adventure",
+      "releaseYear": "2019",
+      "id": 6
+    },
+    {
+      "name": "The Kid who would be King",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/kids-movies-2019-the-kid-who-would-be-king-1543259868.jpg?crop=0.9876543209876543xw:1xh;center,top&resize=480:*",
+      "genre": "Action",
+      "releaseYear": "2019",
+      "id": 7
+    },
+    {
+      "name": "Aladin",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bset-kids-movies-2019-aladdin-1555082928.jpg?crop=0.9879401833092136xw:1xh;center,top&resize=480:*",
+      "genre": "Funny, Adventure",
+      "releaseYear": "2019",
+      "id": 8
+    }
+  ]
+}
